@@ -1,0 +1,8 @@
+D:\Visual-Studio-Projektek\Dolgozat_OP-Ora\Dolgozat_OP-Ora\bin\Debug\Dolgozat_OP-Ora.exe.config
+D:\Visual-Studio-Projektek\Dolgozat_OP-Ora\Dolgozat_OP-Ora\bin\Debug\Dolgozat_OP-Ora.exe
+D:\Visual-Studio-Projektek\Dolgozat_OP-Ora\Dolgozat_OP-Ora\bin\Debug\Dolgozat_OP-Ora.pdb
+D:\Visual-Studio-Projektek\Dolgozat_OP-Ora\Dolgozat_OP-Ora\obj\Debug\Dolgozat_OP-Ora.csproj.AssemblyReference.cache
+D:\Visual-Studio-Projektek\Dolgozat_OP-Ora\Dolgozat_OP-Ora\obj\Debug\Dolgozat_OP-Ora.csproj.SuggestedBindingRedirects.cache
+D:\Visual-Studio-Projektek\Dolgozat_OP-Ora\Dolgozat_OP-Ora\obj\Debug\Dolgozat_OP-Ora.csproj.CoreCompileInputs.cache
+D:\Visual-Studio-Projektek\Dolgozat_OP-Ora\Dolgozat_OP-Ora\obj\Debug\Dolgozat_OP-Ora.exe
+D:\Visual-Studio-Projektek\Dolgozat_OP-Ora\Dolgozat_OP-Ora\obj\Debug\Dolgozat_OP-Ora.pdb
